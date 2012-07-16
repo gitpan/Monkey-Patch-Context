@@ -1,0 +1,23 @@
+---
+abstract: 'Scoped monkeypatching (you can at least play nice)'
+author:
+  - 'Steven Haryanto <sharyanto@cpan.org>'
+build_requires:
+  Module::Build: 0.3601
+configure_requires:
+  Module::Build: 0.3601
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 4.300002, CPAN::Meta::Converter version 2.112150'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Monkey-Patch-Context
+requires:
+  Exporter: 0
+  SUPER: 0
+  Sub::Delete: 0
+resources:
+  homepage: http://metacpan.org/release/Monkey-Patch-Context
+  repository: http://github.com/sharyanto/perl-Monkey-Patch-Context
+version: 0.03.01

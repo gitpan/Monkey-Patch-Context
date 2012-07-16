@@ -1,0 +1,9 @@
+0.03 (FRODWITH)
+
+    - Even doughier, I messed up my dzil config and didn't declare -any-
+      dependencies.
+
+0.02  (FRODWITH)
+
+    - Unspecified dependency on SUPER.  D'oh.  (thanks jwright!)
+

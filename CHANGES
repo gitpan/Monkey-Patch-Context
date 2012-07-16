@@ -1,0 +1,15 @@
+0.03.01  2012-07-15 (SHARYANTO)
+
+    - First release of Monkey::Patch::Context. Forked from Monkey::Patch 0.03.
+
+
+0.03  (FRODWITH)
+
+    - Even doughier, I messed up my dzil config and didn't declare -any-
+      dependencies.
+
+
+0.02  (FRODWITH)
+
+    - Unspecified dependency on SUPER.  D'oh.  (thanks jwright!)
+
